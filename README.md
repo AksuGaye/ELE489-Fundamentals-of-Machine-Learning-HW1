@@ -57,4 +57,12 @@ Manhattan Distance consistently performed the best, especially for K = 5, with a
 1. Clone the repository:
    ```bash
    git clone https://github.com/AksuGaye/ELE489-Fundamentals-of-Machine-Learning-HW1.git
+2. Navigate to the project directory:
+   ```bash
+   cd ELE489-Fundamentals-of-Machine-Learning-HW1
+3. Run the analysis notebook:
+    ```bash
+    jupyter notebook analysis.ipynb
+
+    
 
